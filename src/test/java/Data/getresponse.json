@@ -1,0 +1,29 @@
+[{
+  "data": {
+    "last_name": "Weaver",
+    "id": 2,
+    "avatar": "https://reqres.in/img/faces/2-image.jpg",
+    "first_name": "Janet",
+    "email": "janet.weaver@reqres.in"
+  },
+  "support": {
+    "text": "To keep ReqRes free, contributions towards server costs are appreciated!",
+    "url": "https://reqres.in/#support-heading"
+  }
+},
+
+{
+  "data": {
+    "last_name": "Wong",
+    "id": 3,
+    "avatar": "https://reqres.in/img/faces/3-image.jpg",
+    "first_name": "Emma",
+    "email": "emma.wong@reqres.in"
+  },
+  "support": {
+    "text": "To keep ReqRes free, contributions towards server costs are appreciated!",
+    "url": "https://reqres.in/#support-heading"
+  }
+}
+]
+ 
